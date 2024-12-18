@@ -1,0 +1,42 @@
+# Caminho raiz do dataset
+path: caminho_para_o_dataset  # atualize conforme necessário
+
+# Caminhos para os conjuntos de treino, validação e teste
+train: among/train  # Caminho para as imagens de treino
+val: among/val     # Caminho para as imagens de validação
+test:               # Pode ser deixado vazio se não for usado
+
+
+
+
+# Classes
+names:
+  0: Código QR
+  1: Bolsa
+  2: Bolsa com canudo
+  3: Cesta de comida
+  4: Caneca de cerveja
+  5: Código QR azul
+  6: Garrafa
+  7: Tigela de comida
+  8: Hashi
+  9: Copo
+  10: Garfo
+  11: Vidro (ou copo de vidro)
+  12: Jarro
+  13: Faca
+  14: Cardápio
+  15: Celular
+  16: Guardanapo
+  17: Panela de comida
+  18: Pessoas
+  19: Pimenta
+  20: Prato de comida
+  21: Sal
+  22: Lata de refrigerante
+  23: Colher
+  24: Mesa
+  25: Bandeja de comida
+  26: Vaso com flor
+  27: Garçom
+  28: Taça de vinho
